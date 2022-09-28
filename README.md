@@ -1,6 +1,6 @@
 # Signed-Rearrangement-Distances-Considering-Repeated-Genes-Intergenic-Regions-and-Indels
 
-Partition algorithms described in the paper "Signed Rearrangement Distances Considering Repeated Genes, Intergenic Regions, and Indels". The algorithms are in the `partition` folder.
+Partition algorithms described in the paper "Signed Rearrangement Distances Considering Repeated Genes, Intergenic Regions, and Indels". The algorithms are in the `heuristic` and `fpt` folders.
 
 ## Instances
 
